@@ -1,5 +1,6 @@
-## These functions create and manipulate a special matrix object, for which the
-## inverse is stored ("cached") once computed, saving unnecessary recompuation.
+## These functions create and manipulate a special matrix object, 
+## for which the inverse is stored ("cached") once computed, 
+## saving unnecessary recompuation.
 
 ## 'makeCacheMatrix' takes what is presumed to be a square, invetable matrix
 ## and returns a list, the first element of which 'm' is the matrix itself.
